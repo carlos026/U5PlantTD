@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PlantTD",
+			"Path": "..\\Source\\PlantTD.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PlantTDEditor",
+			"Path": "..\\Source\\PlantTDEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

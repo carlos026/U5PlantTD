@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PlantTD.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\carlo\Documents\Unreal Projects\PlantTD\Intermediate\Build\Win64\x64\PlantTDEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\carlo\Documents\Unreal Projects\PlantTD\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlantTD\PlantTD.cpp.obj"
+"C:\Users\carlo\Documents\Unreal Projects\PlantTD\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlantTD\Default.rc2.res"
+/OUT:"C:\Users\carlo\Documents\Unreal Projects\PlantTD\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlantTD\UnrealEditor-PlantTD.lib"
